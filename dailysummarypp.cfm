@@ -10,7 +10,7 @@
 
 <cfscript>
 	writeoutput("Starting daily summary job..");
-	logfile.writeline("Starting daily summary job..");
+	logfile.writeline("Starting daily summary job...");
 </cfscript>
 
 <!--- Retrieve All Merchants --->
